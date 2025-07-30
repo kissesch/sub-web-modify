@@ -797,7 +797,7 @@ export default {
       form: {
         sourceSubUrl: "",
         clientType: "",
-        customBackend: this。getUrlParam() == "" ? "https://kitsubconverter.onrender.com" : this.getUrlParam(),
+        customBackend: this.getUrlParam() == "" ? "https://kitsubconverter.onrender.com" : this.getUrlParam(),
         shortType: "https://v1.mk/short",
         remoteConfig: "https://raw.githubusercontent.com/kissesch/ACL4SSR/master_custom/Clash/config/ACL_custom.ini",
         excludeRemarks: "",
