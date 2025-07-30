@@ -359,7 +359,7 @@ export default {
         ],
         remoteConfig: [
           {
-            label: "CM规则",
+            label: "kit自用规则",
             options: [
               {
                 label: "custom",
