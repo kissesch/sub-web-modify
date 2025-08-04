@@ -364,6 +364,10 @@ export default {
               {
                 label: "custom",
                 value: "https://raw.githubusercontent.com/kissesch/ACL4SSR/master_custom/Clash/config/ACL_custom.ini"
+              },
+              {
+                label: "custom_musik",
+                value: "https://raw.githubusercontent.com/kissesch/ACL4SSR/refs/heads/master_custom/Clash/config/ACL_custom_musik.ini"
               }
             ]
           },
@@ -1321,3 +1325,4 @@ export default {
   }
 };
 </script>
+
