@@ -360,8 +360,16 @@ export default {
                 value: "https://raw.githubusercontent.com/kissesch/ACL4SSR/master_custom/Clash/config/ACL_custom.ini"
               },
               {
+                label: "custom_cf",
+                value: "https://raw.githubusercontent.com/kissesch/ACL4SSR/refs/heads/master_custom/Clash/config/Custom_cf.ini"
+              },
+              {
                 label: "custom_musik",
                 value: "https://raw.githubusercontent.com/kissesch/ACL4SSR/refs/heads/master_custom/Clash/config/ACL_custom_musik.ini"
+              },
+              {
+                label: "custom_full",
+                value: "https://raw.githubusercontent.com/kissesch/ACL4SSR/refs/heads/master_custom/Clash/config/ACL_custom_full.ini"
               }
             ]
           },
@@ -1319,4 +1327,5 @@ export default {
   }
 };
 </script>
+
 
