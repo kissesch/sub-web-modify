@@ -370,7 +370,7 @@ export default {
                 value: "https://raw.githubusercontent.com/kissesch/ACL4SSR/refs/heads/master_custom/Clash/config/ACL_custom.ini"
               },
               {
-                label: "custom_cf",
+                label: "custom_cf 默认",
                 value: "https://raw.githubusercontent.com/kissesch/ACL4SSR/refs/heads/master_custom/Clash/config/Custom_cf.ini"
               },
               {
@@ -815,7 +815,7 @@ export default {
         clientType: "",
         customBackend: this.getUrlParam() == "" ? "https://subzocomputer.9698931.xyz" : this.getUrlParam(),
         shortType: "https://v1.mk/short",
-        remoteConfig: "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online.ini",
+        remoteConfig: "https://raw.githubusercontent.com/kissesch/ACL4SSR/refs/heads/master_custom/Clash/config/Custom_cf.ini",
         excludeRemarks: "",
         includeRemarks: "",
         filename: "",
