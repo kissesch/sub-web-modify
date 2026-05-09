@@ -348,7 +348,8 @@ export default {
           "dlj.tf": "https://dlj.tf/short",
         },
         customBackend: {
-          "kits自用zocomputer": "https://subzocomputer.9698931.xyz",
+          "kits自用zoxyz": "https://subzocomputer.9698931.xyz",
+          "kits自用zocomputer": "https://subconverter-schulz.zocomputer.io",
           "CM提供-负载均衡后端": "https://subapi.cmliussss.net",
           "CM提供-应急备用后端": "https://subapi.fxxk.dedyn.io",
           "肥羊提供-增强型后端": "https://url.v1.mk",
@@ -356,6 +357,7 @@ export default {
         },
         backendOptions: [
           { value: "https://subzocomputer.9698931.xyz" },
+          { value: "https://subconverter-schulz.zocomputer.io" },
           { value: "https://subapi.cmliussss.net" },
           { value: "https://subapi.fxxk.dedyn.io" },
           { value: "https://url.v1.mk" },
